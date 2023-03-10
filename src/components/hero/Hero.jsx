@@ -8,12 +8,10 @@ import Image from "next/image";
 const heroContent = {
   heroImage: "/assets/img/hero/dark.jpg",
   heroMobileImage: heroImgMobile,
-  heroTitleName: "steve milner",
-  heroDesignation: "web designer",
-  heroDescriptions: `I'm a Tunisian based web designer & front‑end developer focused on
-  crafting clean & user‑friendly experiences, I am passionate about
-  building excellent software that improves the lives of those
-  around me.`,
+  heroTitleName: "Aus Gomez",
+  heroDesignation: "Software Engineer",
+  heroDescriptions: `I am a software engineer with a love for outdoor adventures and travel. 
+  Bringing technical expertise and a passion for exploration to every project.`,
   heroBtn: "more about me",
 };
 

@@ -2,25 +2,16 @@ import React from "react";
 
 const educationContent = [
   {
-    year: "2015",
-    degree: "ENGINEERING DEGREE",
-    institute: "OXFORD UNIVERSITY",
-    details: `  Lorem ipsum dolor sit amet, consectetur tempor incididunt ut labore
-        adipisicing elit`,
+    year: "2020",
+    degree: "Computer Information Tech DEGREE",
+    institute: "South Texas College",
+    details: `I hold a computer information technology science degree which has equipped me with a broad range of skills including programming, database management, network administration, and cybersecurity, enabling me to design, develop, and maintain complex technology systems.`,
   },
   {
-    year: "2012",
-    degree: "MASTER DEGREE",
-    institute: "KIEV UNIVERSITY",
-    details: `Lorem incididunt dolor sit amet, consectetur eiusmod dunt doldunt dol
-        elit, tempor incididunt`,
-  },
-  {
-    year: "2009",
-    degree: "BACHELOR DEGREE ",
-    institute: "TUNIS HIGH SCHOOL",
-    details: `Lorem ipsum dolor sit amet, tempor incididunt ut laboreconsectetur
-        elit, sed do eiusmod tempor duntt`,
+    year: "2018",
+    degree: "Computer Science DEGREE",
+    institute: "South Texas College",
+    details: `I hold a computer science associate's degree which has equipped me with a strong foundation in the principles of computation, algorithms, programming languages, software design, and computer systems.`,
   },
 ];
 
