@@ -12,7 +12,7 @@ const SEO = ({ pageTitle }) => (
       <meta property="og:image:type" content="image/png" />
       <meta property="og:image:width" content="1200" />
       <meta property="og:image:height" content="630" />
-      <meta property="og:image" content="/assets/img/rtl-mobile.jpg" />
+      <meta property="og:image" content="/assets/img/hero/rtl-mobile.jpg" />
       <meta
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
